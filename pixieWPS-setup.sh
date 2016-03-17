@@ -6,11 +6,11 @@ RESET="\033[00m"
 
 echo -e "${GREEN}Getting Updates${RESET}"
 sleep 1
-#apt-get update
+apt-get update
 
 echo -e "${GREEN}Updates Complete, Installing Dependencies${RESET}"
 sleep 1
-#apt-get -y install libssl-dev libpcap-dev libsqlite3-dev build-essential sqlite3 aircrack-ng pixiewps
+apt-get -y install libssl-dev libpcap-dev libsqlite3-dev build-essential sqlite3 aircrack-ng pixiewps
 
 echo -e "${GREEN}Dependencies Installed, Downloading PixieWPS${RESET}"
 sleep 1
