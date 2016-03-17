@@ -1,5 +1,5 @@
-# pixiedust-reaver-setup.sh
-Complete setup for the PixieWPS attack
+# pixiedwps-reavert6x-setup
+Complete setup for the Pixie Dust attack
 
 Downloads PixieWPS, ReaverT6x Fork, installs dependencies, configures, make & make install.
 
